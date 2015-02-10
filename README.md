@@ -1,5 +1,7 @@
 # Python English Dictionary API
 
+<img src="https://img0.etsystatic.com/000/0/5658883/il_570xN.187754122.jpg" />
+
 <h2>High-Level Overview</h2>
 For any given English word, this API provides callers with the ability to fetch the definitions, origins, synonyms, antonyms, other word-relations, and rhyming words. Since the API uses Merriam-Webster and Thesaurus.com as the primary source of information, please note that the word must be a valid entry in both websites.
 
